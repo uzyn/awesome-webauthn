@@ -60,6 +60,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - `FIDO CONFORMANT` [Eclipse Vert.x: WebAuthn](https://github.com/eclipse-vertx/vertx-auth) - Reactive WebAuthn library for Eclipse Vert.x. Works with any Vert.x related framework: Vert.x Web, Quarkus, ES4X, etc.
 - `FIDO CONFORMANT` [Madwizard.org: WebAuthn PHP library](https://github.com/madwizard-org/webauthn-server) - WebAuthn server library for PHP.
 - `FIDO CONFORMANT` [Spomky-Labs: WebAuthn Framework](https://github.com/web-auth/webauthn-framework) - This framework contains PHP libraries and Symfony bundle to allow developpers to integrate FIDO2 authentication mechanism into their web applications.
+- `FIDO CONFORMANT` [uzyn: Passcay](https://github.com/uzyn/passcay) - Passkey/WebAuthn library for Zig.
 - [Duo: py_webauthn](https://github.com/duo-labs/py_webauthn) - Pythonic WebAuthn. A Python3 implementation of the WebAuthn API focused on making it easy to leverage the power of WebAuthn.
 - [Yubico: Java WebAuthn Server](https://github.com/Yubico/java-webauthn-server) - Server-side Web Authentication library for Java. 
 - [webauthn-open-source: FIDO2 lib](https://github.com/webauthn-open-source/fido2-lib) - A Node.js library for performing FIDO 2.0 / WebAuthn server functionality.
@@ -79,7 +80,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Passwordless.ID: WebAuthn lib](https://github.com/passwordless-id/webauthn) - A simple, minimal, opinionated typescript wrapper around WebAuthn. Features both client side to invoke WebAuthn and server side to verify credentials.
 - [swift-server: webauthn-swift](https://github.com/swift-server/webauthn-swift/tree/main) - A Swift library for implementing the WebAuthn specs on server.
 - [kanidm: webauthn-rs](https://github.com/kanidm/webauthn-rs) - An implementation of webauthn components for Rustlang servers.
-- [uzyn: Passcay](https://github.com/uzyn/passcay) - Passkey/WebAuthn library for Zig
 - [Passkeybot](https://github.com/emadda/passkeybot) - Add passkey auth with a few server side HTTP handlers.
   
 ## Client Libraries
